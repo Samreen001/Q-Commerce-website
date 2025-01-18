@@ -2,5 +2,7 @@
   "/page": "app/page.js",
   "/contact/page": "app/contact/page.js",
   "/cart/page": "app/cart/page.js",
-  "/login/page": "app/login/page.js"
+  "/login/page": "app/login/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/products/page": "app/products/page.js"
 }
